@@ -1,0 +1,20 @@
+.ninjadash-top-product .ant-table-content .ant-table-thead > tr > th.ant-table-cell:first-child{
+    width: 40% !important;
+}
+.jcmktm .ninjadash-recent-deals, .jcmktm .ninjadash-top-product{
+    min-height: unset;
+}
+.ninjadash-top-product .ant-table-content .ant-table-cell:nth-child(2) {
+    width: 15%;
+}
+
+
+
+.usertop .ant-table-content .ant-table-thead > tr > th.ant-table-cell:first-child{
+    width: 25% !important;
+}
+
+.usertop .ant-table-content .ant-table-cell:nth-child(2) {
+    width: 15%;
+}
+

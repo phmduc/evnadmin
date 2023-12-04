@@ -1,0 +1,6 @@
+.commands .table-responsive .ant-table-content .ant-table-cell:first-child{
+    width: max-content;
+}
+.commands .table-responsive .ant-table-content .ant-table-cell:nth-child(2){
+    width: max-content;
+}
